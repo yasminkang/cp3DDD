@@ -1,0 +1,34 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    color: #436e9b;
+    font-size: 3rem;
+}
+
+.card-header {
+    background-color: #436e9b;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-save {
+    background-color: #436e9b;
+    color: white;
+    border: 1px solid #436e9b;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.btn-save:hover {
+    background-color: transparent;
+    color: #436e9b;
+}
+
+.card {
+    margin: 10px;
+}
